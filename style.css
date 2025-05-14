@@ -1,0 +1,30 @@
+body {
+  background-color: #fff;
+}
+h2 {
+  color: #2d2d2d;
+}
+a {
+  text-decoration: none; 
+  font-size: 16px; 
+  color: #2d2d2d;
+  padding: 0 0 0 10px;
+}
+img {
+  width: 16px;
+  height: 16px;
+}
+li {
+  padding: 8px 0; 
+  display: flex; 
+  align-items: center; 
+}
+#tabs {
+  list-style: none;
+  padding-left: 0;
+}
+.tab-item:hover {
+  background-color: rgba(0, 0, 0, 0.3);
+  border-radius: 4px;
+  cursor: pointer;
+}
