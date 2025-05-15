@@ -1,8 +1,12 @@
 body {
   background-color: #fff;
+  min-width:300px;
 }
 h2 {
   color: #2d2d2d;
+}
+hr {
+  border: 1px solid #ccc;
 }
 a {
   text-decoration: none; 

@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Tabs List",
   "description": "可透過PopUp視窗檢視目前開啟的所有分頁",
-  "version": "1.0",
+  "version": "1.1",
   "permissions": ["tabs"],
   "action": {
     "default_popup": "popup.html",
